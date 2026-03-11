@@ -14,7 +14,9 @@ function App() {
 
     setStudents([
       { id: 1, name: "Sneha", email: "sneha@gmail.com", age: 21 },
-      { id: 2, name: "Rahul", email: "rahul@gmail.com", age: 22 }
+      { id: 2, name: "Archana", email: "Archana@gmail.com", age: 22 },
+      { id: 3, name: "Ashwini", email: "Ashwini@gmail.com", age: 21 },
+      { id: 4, name: "Akul", email: "Akul@gmail.com", age: 22 },
     ]);
 
     setLoading(false);
